@@ -1,0 +1,13 @@
+C:\Users\Jeruzael\source\repos\enrollmentSys_pro2\enrollmentSys_pro2\bin\Debug\enrollmentSys_pro2.exe.config
+C:\Users\Jeruzael\source\repos\enrollmentSys_pro2\enrollmentSys_pro2\bin\Debug\enrollmentSys_pro2.exe
+C:\Users\Jeruzael\source\repos\enrollmentSys_pro2\enrollmentSys_pro2\bin\Debug\enrollmentSys_pro2.pdb
+C:\Users\Jeruzael\source\repos\enrollmentSys_pro2\enrollmentSys_pro2\bin\Debug\enrollmentSys_pro2.xml
+C:\Users\Jeruzael\source\repos\enrollmentSys_pro2\enrollmentSys_pro2\obj\Debug\enrollmentSys_pro2.vbprojAssemblyReference.cache
+C:\Users\Jeruzael\source\repos\enrollmentSys_pro2\enrollmentSys_pro2\obj\Debug\enrollmentSys_pro2.Form1.resources
+C:\Users\Jeruzael\source\repos\enrollmentSys_pro2\enrollmentSys_pro2\obj\Debug\enrollmentSys_pro2.Resources.resources
+C:\Users\Jeruzael\source\repos\enrollmentSys_pro2\enrollmentSys_pro2\obj\Debug\enrollmentSys_pro2.vbproj.GenerateResource.cache
+C:\Users\Jeruzael\source\repos\enrollmentSys_pro2\enrollmentSys_pro2\obj\Debug\enrollmentSys_pro2.vbproj.CoreCompileInputs.cache
+C:\Users\Jeruzael\source\repos\enrollmentSys_pro2\enrollmentSys_pro2\obj\Debug\enrollmentSys_pro2.exe
+C:\Users\Jeruzael\source\repos\enrollmentSys_pro2\enrollmentSys_pro2\obj\Debug\enrollmentSys_pro2.xml
+C:\Users\Jeruzael\source\repos\enrollmentSys_pro2\enrollmentSys_pro2\obj\Debug\enrollmentSys_pro2.pdb
+C:\Users\Jeruzael\source\repos\enrollmentSys_pro2\enrollmentSys_pro2\obj\Debug\enrollmentSys_pro2.Form2.resources
