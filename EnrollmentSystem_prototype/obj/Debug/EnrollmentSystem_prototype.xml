@@ -1,0 +1,531 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EnrollmentSystem_prototype
+</name>
+</assembly>
+<members>
+<member name="T:EnrollmentSystem_prototype.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources._exit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.addPerson">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.applicants">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.applicants2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.enrollment">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.exam">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.examination_design">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.examination_design2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.Finish">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.geometric_pattern">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.Interview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.itachi">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.menu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.menu2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.menu3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.menu4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.menu5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.menu6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.menu7">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.menuBar_design">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.menuBar_design2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.menuBar_design3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.orange_geometricPatternBG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.passed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.passed2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.questionnaire2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.security_bg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.security_bg2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.security_bg3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.security4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.studentButtonRight">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.transparent_panel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.ucc_enrollmentCover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.uccEnSyspro2_login2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EnrollmentSystem_prototype.My.Resources.Resources.uccLogo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.census">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.census.censusDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.census.censusRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.census.censusRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.censusTableAdapters.censusTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.censusTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:EnrollmentSystem_prototype.censusTableAdapters.TableAdapterManager.UpdateUpdatedRows(EnrollmentSystem_prototype.census,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:EnrollmentSystem_prototype.censusTableAdapters.TableAdapterManager.UpdateInsertedRows(EnrollmentSystem_prototype.census,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:EnrollmentSystem_prototype.censusTableAdapters.TableAdapterManager.UpdateDeletedRows(EnrollmentSystem_prototype.census,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:EnrollmentSystem_prototype.censusTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:EnrollmentSystem_prototype.censusTableAdapters.TableAdapterManager.UpdateAll(EnrollmentSystem_prototype.census)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.censusTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.censusTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.csDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.csDataSet.hometableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.csDataSet.hometableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.csDataSet.hometableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.csDataSetTableAdapters.hometableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.csDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:EnrollmentSystem_prototype.csDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(EnrollmentSystem_prototype.csDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:EnrollmentSystem_prototype.csDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(EnrollmentSystem_prototype.csDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:EnrollmentSystem_prototype.csDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(EnrollmentSystem_prototype.csDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:EnrollmentSystem_prototype.csDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:EnrollmentSystem_prototype.csDataSetTableAdapters.TableAdapterManager.UpdateAll(EnrollmentSystem_prototype.csDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.csDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.csDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.csDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.csDataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.csDataSet2.regDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.csDataSet2.regRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.csDataSet2.regRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.csDataSet2TableAdapters.regTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.csDataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:EnrollmentSystem_prototype.csDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(EnrollmentSystem_prototype.csDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:EnrollmentSystem_prototype.csDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(EnrollmentSystem_prototype.csDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:EnrollmentSystem_prototype.csDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(EnrollmentSystem_prototype.csDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:EnrollmentSystem_prototype.csDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:EnrollmentSystem_prototype.csDataSet2TableAdapters.TableAdapterManager.UpdateAll(EnrollmentSystem_prototype.csDataSet2)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.csDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.csDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.reg">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.reg.regDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.reg.regRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.reg.regRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.regTableAdapters.regTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.regTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:EnrollmentSystem_prototype.regTableAdapters.TableAdapterManager.UpdateUpdatedRows(EnrollmentSystem_prototype.reg,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:EnrollmentSystem_prototype.regTableAdapters.TableAdapterManager.UpdateInsertedRows(EnrollmentSystem_prototype.reg,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:EnrollmentSystem_prototype.regTableAdapters.TableAdapterManager.UpdateDeletedRows(EnrollmentSystem_prototype.reg,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:EnrollmentSystem_prototype.regTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:EnrollmentSystem_prototype.regTableAdapters.TableAdapterManager.UpdateAll(EnrollmentSystem_prototype.reg)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.regTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.regTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.regMax">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.regMax.regDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.regMax.regRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.regMax.regRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.regMaxTableAdapters.regTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.regMaxTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:EnrollmentSystem_prototype.regMaxTableAdapters.TableAdapterManager.UpdateUpdatedRows(EnrollmentSystem_prototype.regMax,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:EnrollmentSystem_prototype.regMaxTableAdapters.TableAdapterManager.UpdateInsertedRows(EnrollmentSystem_prototype.regMax,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:EnrollmentSystem_prototype.regMaxTableAdapters.TableAdapterManager.UpdateDeletedRows(EnrollmentSystem_prototype.regMax,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:EnrollmentSystem_prototype.regMaxTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:EnrollmentSystem_prototype.regMaxTableAdapters.TableAdapterManager.UpdateAll(EnrollmentSystem_prototype.regMax)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.regMaxTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:EnrollmentSystem_prototype.regMaxTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="regMax" targetNamespace="http://tempuri.org/regMax.xsd" xmlns:mstns="http://tempuri.org/regMax.xsd" xmlns="http://tempuri.org/regMax.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="csConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="csConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.EnrollmentSystem_prototype.My.MySettings.GlobalReference.Default.csConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="regTableAdapter" GeneratorDataComponentClassName="regTableAdapter" Name="reg" UserDataComponentName="regTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="csConnectionString (MySettings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT MAX(`no`) AS Largestno FROM `reg`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Largestno" DataSetColumn="Largestno" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="regMax" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="regMax" msprop:Generator_UserDSName="regMax">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="reg" msprop:Generator_TableClassName="regDataTable" msprop:Generator_TableVarName="tablereg" msprop:Generator_TablePropName="reg" msprop:Generator_RowDeletingName="regRowDeleting" msprop:Generator_RowChangingName="regRowChanging" msprop:Generator_RowEvHandlerName="regRowChangeEventHandler" msprop:Generator_RowDeletedName="regRowDeleted" msprop:Generator_UserTableName="reg" msprop:Generator_RowChangedName="regRowChanged" msprop:Generator_RowEvArgName="regRowChangeEvent" msprop:Generator_RowClassName="regRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Largestno" msprop:Generator_ColumnVarNameInTable="columnLargestno" msprop:Generator_ColumnPropNameInRow="Largestno" msprop:Generator_ColumnPropNameInTable="LargestnoColumn" msprop:Generator_UserColumnName="Largestno" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
